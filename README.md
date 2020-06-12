@@ -2,7 +2,7 @@
 
 Find my Free Json Server DB - 
 
-https://github.com/HelloooAndroid/DB/blob/master/db.json
+https://my-json-server.typicode.com/HelloooAndroid/DB 
 
 ##
 Create your own on https://jsonplaceholder.typicode.com/
